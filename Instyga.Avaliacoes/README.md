@@ -21,3 +21,6 @@ docker run --detach --name rabbitmq-blog-management --publish 5672:5672 --publis
 docker network create rabbitmq-network
 
 acessar através de: http://localhost:15672/ usuario: guest senha: guest
+
+
+Novo commit - teste deploy
